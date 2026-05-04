@@ -41,6 +41,8 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 ![Soldering](https://img.shields.io/badge/-Soldering-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-37474F?style=for-the-badge&logo=wave&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/-Circuit%20Design-1565C0?style=for-the-badge&logo=circleci&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Core Expertise:
 
