@@ -25,6 +25,9 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PC Building](https://img.shields.io/badge/-PC%20Building-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Odin](https://img.shields.io/badge/-Odin-4A90D9?style=for-the-badge&logo=odin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ⚙️ Core Expertise:
 
