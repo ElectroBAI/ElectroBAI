@@ -28,6 +28,9 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Odin](https://img.shields.io/badge/-Odin-4A90D9?style=for-the-badge&logo=odin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-F5792A?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### ⚙️ Core Expertise:
 
