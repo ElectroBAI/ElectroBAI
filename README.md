@@ -8,7 +8,7 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-nine-wine-11.vercel.app)
 
 ### 💻 Tech Stack:
 <!-- These badges use Shields.io for that clean, professional look -->
