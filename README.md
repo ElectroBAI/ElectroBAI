@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**I am Baibhab Das, a former student of M.P. Birla Foundation Higher Secondary School, deeply passionate about Linux systems, robotics, and hardware engineering.**
+**I am Baibhab Das, a student of M.P. Birla Foundation Higher Secondary School, deeply passionate about Linux systems, robotics, and hardware engineering.**
 
 I focus on creating hardware-software synergy through custom Linux environments and microcontroller-based builds. My work involves managing diverse OS distributions, terminal-based system administration, and designing intelligent hardware solutions using Arduino and ESP32.
 
