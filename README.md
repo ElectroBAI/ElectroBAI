@@ -11,7 +11,6 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-nine-wine-11.vercel.app)
 
 ### 💻 Tech Stack:
-### 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
