@@ -11,6 +11,7 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-nine-wine-11.vercel.app)
 
 ### 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -31,6 +32,16 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-F5792A?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-1DB954?style=for-the-badge&logo=easyeda&logoColor=white)
+![LTspice](https://img.shields.io/badge/-LTspice-900000?style=for-the-badge&logo=analog-devices&logoColor=white)
+![Multisim](https://img.shields.io/badge/-Multisim-FFCB00?style=for-the-badge&logo=ni&logoColor=black)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Electronics](https://img.shields.io/badge/-Electronics-009688?style=for-the-badge&logo=electron&logoColor=white)
+![PCB Design](https://img.shields.io/badge/-PCB%20Design-006DB3?style=for-the-badge&logo=altium-designer&logoColor=white)
+![Soldering](https://img.shields.io/badge/-Soldering-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-37474F?style=for-the-badge&logo=wave&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/-Circuit%20Design-1565C0?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### ⚙️ Core Expertise:
 
