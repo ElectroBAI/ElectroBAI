@@ -11,34 +11,18 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-nine-wine-11.vercel.app)
 
 ### 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+# Hardware & Embedded Systems:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PC Building](https://img.shields.io/badge/-PC%20Building-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Odin](https://img.shields.io/badge/-Odin-4A90D9?style=for-the-badge&logo=odin&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-F5792A?style=for-the-badge&logo=autodesk&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/-EasyEDA-1DB954?style=for-the-badge&logo=easyeda&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Electronics](https://img.shields.io/badge/-Electronics-009688?style=for-the-badge&logo=electron&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-006DB3?style=for-the-badge&logo=altium-designer&logoColor=white)
 ![Circuit Design](https://img.shields.io/badge/-Circuit%20Design-1565C0?style=for-the-badge&logo=circleci&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Core Expertise:
 
