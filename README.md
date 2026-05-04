@@ -60,26 +60,3 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 *   **Hardware:** Expertise in mobile hardware repair and firmware modification.
 
 📍 **Kolkata, India**
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Engineering+the+future...;One+autonomous+system+at+a+time." alt="Vision Typing" />
-  
-  <p align="center">
-    <b>Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.</b>
-  </p>
-  
-  <br>
-
-  <a href="https://swarnendu-kundu-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-00FFAA?style=for-the-badge&logo=firefox&logoColor=black&labelColor=000000" alt="Portfolio" />
-  </a>
-  
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=itz-void-tech&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" alt="Footer Banner"/>
-</div>
