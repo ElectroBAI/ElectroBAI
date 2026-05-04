@@ -7,7 +7,7 @@ I focus on creating hardware-software synergy through custom Linux environments 
 I believe in a "hands-on" approach to technology—building and optimizing systems to solve technical challenges and improve efficiency. Currently, I am focusing on advanced system-level programming and expanding my skills in embedded systems and high-performance PC architecture.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhab-das-63a024407)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-nine-wine-11.vercel.app)
 
 ### 💻 Tech Stack:
