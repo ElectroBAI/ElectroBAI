@@ -12,7 +12,7 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 
 ### 💻 Tech Stack:
 
-# Hardware & Embedded Systems:
+#### Hardware & Embedded Systems:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![PC Building](https://img.shields.io/badge/-PC%20Building-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
