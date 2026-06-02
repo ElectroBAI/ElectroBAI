@@ -15,7 +15,7 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 #### Hardware & Embedded Systems:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Radxa](https://img.shields.io/badge/Radxa-3A3A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5NiA5NiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTU4LjUgNDhMNzUuOCA0OEw0OCAyMC4yTDIwLjIgNDhMMzcuNSA0OEw0OCAzNy41TDU4LjUgNDh6TDU4LjUgNThMNzUuOCA1OEw0OCA4NS44TDIwLjIgNThMMzcuNSA1OEw0OCA2OC41TDU4LjUgNTh6Ii8+PC9zdmc+&logoColor=white)
+![Radxa](https://img.shields.io/badge/Radxa-3A3A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjg0LjMgMjU2bDE1OC40LTE1OC40YzcuOC03LjggNy44LTIwLjUgMC0yOC4zcy0yMC41LTcuOC0yOC4zIDBMMjU2IDIyNy43IDk3LjYgNjkuM2MtNy44LTcuOC0yMC41LTcuOC0yOC4zIDBzLTcuOCAyMC41IDAgMjguM0wyMjcuNyAyNTYgNjkuMyA0MTQuNmMtNy44IDcuOC03LjggMjAuNSAwIDI4LjNzMjAuNSA3LjggMjguMyAwTDI1NiAyODQuM2wxNTguNCAxNTguNGM3LjggNy44IDIwLjUgNy44IDI4LjMgMHMyMC41LTcuOCAwLTI4LjNMMjg0LjMgMjU2eiIvPjwvc3ZnPg==&logoColor=white)
 ![PC Building](https://img.shields.io/badge/-PC%20Building-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
@@ -56,31 +56,8 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 
 ### ⚙️ Core Expertise:
 
-* **Embedded & Robotics:** Specialized in ESP32, Arduino, and sensor-based automation.
-* **System Administration:** Advanced terminal management and shell scripting.
-* **Hardware:** Expertise in mobile hardware repair and firmware modification.
+*   **Embedded & Robotics:** Specialized in ESP32, Arduino, and sensor-based automation.
+*   **System Administration:** Advanced terminal management and shell scripting.
+*   **Hardware:** Expertise in mobile hardware repair and firmware modification.
 
 📍 **Kolkata, India**
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Engineering+the+future...;One+autonomous+system+at+a+time." alt="Vision Typing" />
-  
-  <p align="center">
-    <b>Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.</b>
-  </p>
-  
-  <br>
-
-  <a href="https://swarnendu-kundu-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-00FFAA?style=for-the-badge&logo=firefox&logoColor=black&labelColor=000000" alt="Portfolio" />
-  </a>
-  
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=itz-void-tech&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" alt="Footer Banner"/>
-</div>
