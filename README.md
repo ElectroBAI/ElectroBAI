@@ -15,6 +15,7 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 #### Hardware & Embedded Systems:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Radxa](https://img.shields.io/badge/Radxa-3A3A3A?style=for-the-badge&logo=cpu&logoColor=white)
 ![PC Building](https://img.shields.io/badge/-PC%20Building-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
