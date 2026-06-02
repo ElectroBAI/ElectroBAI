@@ -62,28 +62,25 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 
 📍 **Kolkata, India**
 
-<br />
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="60">
-  <defs>
-    <style>
-      @keyframes rgbShift {
-        0%   { fill: #00fa9a; }
-        25%  { fill: #00bfff; }
-        50%  { fill: #ff007f; }
-        75%  { fill: #ffaa00; }
-        100% { fill: #00fa9a; }
-      }
-      @keyframes moveWave {
-        0%   { transform: translateX(0); }
-        100% { transform: translateX(-50%); }
-      }
-      .animated-wave {
-        animation: moveWave 8s linear infinite, rgbShift 12s ease-in-out infinite;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="animated-wave" d="M0,60 C150,60 225,30 300,30 C375,30 450,60 600,60 C750,60 825,30 900,30 C975,30 1050,60 1200,60 C1350,60 1425,30 1500,30 C1575,30 1650,60 1800,60 C1950,60 2025,30 2100,30 C2175,30 2250,60 2400,60 L2400,120 L0,120 Z"/>
-  </g>
-</svg>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Engineering+the+future...;One+autonomous+system+at+a+time." alt="Vision Typing" />
+  
+  <p align="center">
+    <b>Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.</b>
+  </p>
+  
+  <br>
+
+  <a href="https://swarnendu-kundu-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/View_Full_Portfolio-00FFAA?style=for-the-badge&logo=firefox&logoColor=black&labelColor=000000" alt="Portfolio" />
+  </a>
+  
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=itz-void-tech&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" alt="Footer Banner"/>
+</div>
