@@ -64,7 +64,26 @@ I believe in a "hands-on" approach to technology—building and optimizing syste
 
 <br />
 
-```xml
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDEyMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iNjAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICBALmtleWZyYW1lcyByZ2JTaGlmdCB7CiAgICAgICAgMDclIHsgZmlsbDogI2ZmMDA1NTsgfQogICAgICAgIDI1JSB7IGZpbGw6ICMwMDU1ZmY7IH0KICAgICAgICA1MCUgeyBmaWxsOiAjMDBmZmFhOyB9CiAgICAgICAgNzUlIHsgZmlsbDogI2ZmYTIwMDsgfQogICAgICAgIDEwMCUgeyBmaWxsOiAjZmYwMDU1OyB9CiAgICAgIH0KICAgICAgQCBrZXlmcmFtZXMgbW92ZVdhdmUgewogICAgICAgIDAlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKDApOyB9CiAgICAgICAgMTAwJSB7IHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKTsgfQogICAgICB9CiAgICAgIC53YXZlLWpathIHsKICAgICAgICBhbmltYXRpb246IG1vdmVXYXZlIDEwcyBsaW5lYXIgaW5maW5pdGUsIHJnYlNoaWZ0IDEycyBlYXNlLWluLW91dCBpbmZpbml0ZTsKICAgICAgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMjApIj4KICAgIDxwYXRoIGNsYXNzPSJ3YXZlLWpathIiBkPSJNMCw2MCBDMTUwLDYwIDIyNSwzMCAzMDAsMzAgQzM3NSwzMCA0NTAsNjAgNjAwLDYwIEM3NTAsNjAgODI1LDMwIDkwMCwzMCBDOTc1LDMwIDEwNTAsNjAgMTIwMCw2MCBMMTIwMCwxMjAgTDAsMTIwIFoiIHdpZHRoPSIyMDAlIi8+CiAgICA8cGF0aCBjbGFzcz0id2F2ZS1wYXRoIiBkPSJNMTIwMCw2MCBDMTM1MCw2MCAxNDI1LDMwIDE1MDAsMzAgQzE1NzUsMzAgMTY1MCw2MCAxODAwLDYwIEMxOTUwLDYwIDIwMjUsMzAgMjEwMCwzMCBDMjE3NSwzMCAyMjUwLDYwIDI0MDAsNjAgTDI0MDAsMTIwIEwxMjAwLDEyMCBaIiB3aWR0aD0iMjAwJSIvPgogIDwvZz4KPC9zdmc+" width="100%" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="60">
+  <defs>
+    <style>
+      @keyframes rgbShift {
+        0%   { fill: #00fa9a; }
+        25%  { fill: #00bfff; }
+        50%  { fill: #ff007f; }
+        75%  { fill: #ffaa00; }
+        100% { fill: #00fa9a; }
+      }
+      @keyframes moveWave {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+      .animated-wave {
+        animation: moveWave 8s linear infinite, rgbShift 12s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="animated-wave" d="M0,60 C150,60 225,30 300,30 C375,30 450,60 600,60 C750,60 825,30 900,30 C975,30 1050,60 1200,60 C1350,60 1425,30 1500,30 C1575,30 1650,60 1800,60 C1950,60 2025,30 2100,30 C2175,30 2250,60 2400,60 L2400,120 L0,120 Z"/>
+  </g>
+</svg>
